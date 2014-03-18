@@ -1,0 +1,23 @@
+{
+  "name": "astar-andrea",
+  "version": "1.0.0",
+  "description": "Andrea Giammarchi's path finder with A* (A star).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jansegre/astar-andrea.git"
+  },
+  "keywords": [
+    "astar",
+    "a-star",
+    "pathfinder",
+    "path",
+    "finder"
+  ],
+  "author": "Jan Segre <jan@segre.in>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jansegre/astar-andrea/issues"
+  },
+  "homepage": "https://github.com/jansegre/astar-andrea"
+}
